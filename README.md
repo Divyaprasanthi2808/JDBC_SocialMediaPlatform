@@ -1,6 +1,6 @@
 JDBC Social Media Platform
 
-Overview
+**Overview**
 
 The JDBC Social Media Platform is a Java-based application designed to provide basic social media functionalities using JDBC (Java Database Connectivity) for database interactions. This project includes user authentication and registration, allowing users to log in and access their accounts.
 
