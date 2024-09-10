@@ -11,8 +11,8 @@ User Profiles: Basic profile management and display.
 Database Integration: Utilizes MySQL for storing user credentials and profile data.
 Graphical User Interface: Simple and intuitive UI for ease of use.
 
-**
-Technologies Used**
+
+**Technologies Used**
 
 Java: Programming language used for application development.
 JDBC: Java Database Connectivity for interacting with the MySQL database.
